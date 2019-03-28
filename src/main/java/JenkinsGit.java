@@ -9,5 +9,6 @@ public class JenkinsGit {
         System.out.println("Hello GitHub!");
         System.out.println("Hello GitHub!");
         System.out.println("Hello GitHub!");
+        System.out.println("Hello Test!");
     }
 }
